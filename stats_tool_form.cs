@@ -117,7 +117,6 @@ namespace Statistics_Tool
                 // Catch if an Exception is Thrown
                 catch (System.FormatException)
                 {
-                    data.ResetText();
                     MessageBox.Show("Incorrect Input, Make Sure to Seprate Numbers With Commas");
                 }
 

@@ -6,5 +6,4 @@ c:\users\evan\documents\visual studio 2012\Projects\Statistics Tool\Statistics T
 c:\users\evan\documents\visual studio 2012\Projects\Statistics Tool\Statistics Tool\obj\Debug\Statistics Tool.csproj.GenerateResource.Cache
 c:\users\evan\documents\visual studio 2012\Projects\Statistics Tool\Statistics Tool\obj\Debug\Statistics Tool.exe
 c:\users\evan\documents\visual studio 2012\Projects\Statistics Tool\Statistics Tool\obj\Debug\Statistics Tool.pdb
-c:\users\evan\documents\visual studio 2012\Projects\Statistics Tool\Statistics Tool\bin\Debug\Statistics Tool.exe.CodeAnalysisLog.xml
-c:\users\evan\documents\visual studio 2012\Projects\Statistics Tool\Statistics Tool\bin\Debug\Statistics Tool.exe.lastcodeanalysissucceeded
+C:\Users\Evan\documents\visual studio 2012\Projects\Statistics Tool\Statistics Tool\obj\Debug\Statistics Tool.csprojResolveAssemblyReference.cache

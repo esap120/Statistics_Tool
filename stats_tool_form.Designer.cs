@@ -62,9 +62,9 @@
             this.calculate_button.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.calculate_button.BackColor = System.Drawing.SystemColors.ControlDark;
             this.calculate_button.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
-            this.calculate_button.Location = new System.Drawing.Point(267, 357);
+            this.calculate_button.Location = new System.Drawing.Point(266, 357);
             this.calculate_button.Name = "calculate_button";
-            this.calculate_button.Size = new System.Drawing.Size(76, 27);
+            this.calculate_button.Size = new System.Drawing.Size(88, 31);
             this.calculate_button.TabIndex = 1;
             this.calculate_button.Text = "Calculate";
             this.calculate_button.UseVisualStyleBackColor = false;
@@ -200,9 +200,9 @@
             this.clear_button.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.clear_button.BackColor = System.Drawing.SystemColors.ControlDark;
             this.clear_button.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
-            this.clear_button.Location = new System.Drawing.Point(361, 357);
+            this.clear_button.Location = new System.Drawing.Point(360, 357);
             this.clear_button.Name = "clear_button";
-            this.clear_button.Size = new System.Drawing.Size(76, 27);
+            this.clear_button.Size = new System.Drawing.Size(88, 31);
             this.clear_button.TabIndex = 14;
             this.clear_button.Text = "Clear";
             this.clear_button.UseVisualStyleBackColor = false;
